@@ -1,0 +1,11 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+h5 {
+    font-weight: 600;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+}
